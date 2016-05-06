@@ -1,4 +1,4 @@
 # Web-Wizdom
-A site to advertise my web building services to private clients
 
-Includes a responsive design and well-organized php structure.
+I originally made this site to advertise my web building services to private clients. The website demonstrates my ability to build clean websites in PHP that are flexible to various size devices and different browsers.
+
